@@ -5,6 +5,9 @@
 [submodule "rformat"]
 	path = rformat
 	url = https://github.com/cornball-ai/rformat
+[submodule "saber"]
+	path = saber
+	url = https://github.com/cornball-ai/saber
 [submodule "whisper"]
 	path = whisper
 	url = https://github.com/cornball-ai/whisper
