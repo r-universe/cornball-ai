@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "llm.api"]
+	path = llm.api
+	url = https://github.com/cornball-ai/llm.api
 [submodule "rformat"]
 	path = rformat
 	url = https://github.com/cornball-ai/rformat
