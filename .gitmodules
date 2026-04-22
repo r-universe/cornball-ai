@@ -5,6 +5,9 @@
 [submodule "llm.api"]
 	path = llm.api
 	url = https://github.com/cornball-ai/llm.api
+[submodule "mx.api"]
+	path = mx.api
+	url = https://github.com/cornball-ai/mx.api
 [submodule "rformat"]
 	path = rformat
 	url = https://github.com/cornball-ai/rformat
