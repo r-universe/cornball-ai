@@ -17,6 +17,9 @@
 [submodule "stt.api"]
 	path = stt.api
 	url = https://github.com/cornball-ai/stt.api
+[submodule "tinypkgr"]
+	path = tinypkgr
+	url = https://github.com/cornball-ai/tinypkgr
 [submodule "tinyrox"]
 	path = tinyrox
 	url = https://github.com/cornball-ai/tinyrox
