@@ -2,12 +2,18 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "corteza"]
+	path = corteza
+	url = https://github.com/cornball-ai/corteza
 [submodule "llm.api"]
 	path = llm.api
 	url = https://github.com/cornball-ai/llm.api
 [submodule "mx.api"]
 	path = mx.api
 	url = https://github.com/cornball-ai/mx.api
+[submodule "pensar"]
+	path = pensar
+	url = https://github.com/cornball-ai/pensar
 [submodule "rformat"]
 	path = rformat
 	url = https://github.com/cornball-ai/rformat
