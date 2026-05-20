@@ -11,6 +11,9 @@
 [submodule "mx.api"]
 	path = mx.api
 	url = https://github.com/cornball-ai/mx.api
+[submodule "pensar"]
+	path = pensar
+	url = https://github.com/cornball-ai/pensar
 [submodule "rformat"]
 	path = rformat
 	url = https://github.com/cornball-ai/rformat
