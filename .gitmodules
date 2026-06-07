@@ -29,6 +29,9 @@
 [submodule "tinyrox"]
 	path = tinyrox
 	url = https://github.com/cornball-ai/tinyrox
+[submodule "tinyspotifyr"]
+	path = tinyspotifyr
+	url = https://github.com/cornball-ai/tinyspotifyr
 [submodule "whisper"]
 	path = whisper
 	url = https://github.com/cornball-ai/whisper
