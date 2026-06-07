@@ -23,6 +23,10 @@
 [submodule "stt.api"]
 	path = stt.api
 	url = https://github.com/cornball-ai/stt.api
+[submodule "tinyoauth"]
+	path = tinyoauth
+	url = https://github.com/cornball-ai/tinyoauth
+	registered = false
 [submodule "tinypkgr"]
 	path = tinypkgr
 	url = https://github.com/cornball-ai/tinypkgr
