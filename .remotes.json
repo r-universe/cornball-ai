@@ -4,5 +4,11 @@
     "url": "https://github.com/cornball-ai/tinyoauth",
     "via": ["llm.api"],
     "from": "llm.api"
+  },
+  {
+    "package": "tinyoauth",
+    "url": "https://github.com/cornball-ai/tinyoauth",
+    "via": ["tinyspotifyr"],
+    "from": "tinyspotifyr"
   }
 ]
