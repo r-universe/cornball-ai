@@ -29,7 +29,6 @@
 [submodule "tinyoauth"]
 	path = tinyoauth
 	url = https://github.com/cornball-ai/tinyoauth
-	registered = false
 [submodule "tinypkgr"]
 	path = tinypkgr
 	url = https://github.com/cornball-ai/tinypkgr
