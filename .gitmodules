@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "chatterbox"]
+	path = chatterbox
+	url = https://github.com/cornball-ai/chatterbox
 [submodule "corteza"]
 	path = corteza
 	url = https://github.com/cornball-ai/corteza
