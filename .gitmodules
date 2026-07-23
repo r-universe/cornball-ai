@@ -23,6 +23,9 @@
 [submodule "pensar"]
 	path = pensar
 	url = https://github.com/cornball-ai/pensar
+[submodule "rembg"]
+	path = rembg
+	url = https://github.com/cornball-ai/rembg
 [submodule "rformat"]
 	path = rformat
 	url = https://github.com/cornball-ai/rformat
