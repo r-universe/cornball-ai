@@ -50,6 +50,9 @@
 [submodule "tinyspotifyr"]
 	path = tinyspotifyr
 	url = https://github.com/cornball-ai/tinyspotifyr
+[submodule "tts.api"]
+	path = tts.api
+	url = https://github.com/cornball-ai/tts.api
 [submodule "whisper"]
 	path = whisper
 	url = https://github.com/cornball-ai/whisper
