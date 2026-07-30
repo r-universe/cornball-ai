@@ -38,6 +38,9 @@
 [submodule "stt.api"]
 	path = stt.api
 	url = https://github.com/cornball-ai/stt.api
+[submodule "subtitles"]
+	path = subtitles
+	url = https://github.com/cornball-ai/subtitles
 [submodule "tinyoauth"]
 	path = tinyoauth
 	url = https://github.com/cornball-ai/tinyoauth
