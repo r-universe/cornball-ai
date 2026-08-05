@@ -5,6 +5,9 @@
 [submodule "chatterbox"]
 	path = chatterbox
 	url = https://github.com/cornball-ai/chatterbox
+[submodule "compost"]
+	path = compost
+	url = https://github.com/cornball-ai/compost
 [submodule "corteza"]
 	path = corteza
 	url = https://github.com/cornball-ai/corteza
