@@ -11,6 +11,9 @@
 [submodule "corteza"]
 	path = corteza
 	url = https://github.com/cornball-ai/corteza
+[submodule "diffuseR"]
+	path = diffuseR
+	url = https://github.com/cornball-ai/diffuser
 [submodule "llm.api"]
 	path = llm.api
 	url = https://github.com/cornball-ai/llm.api
