@@ -1,67 +1,11 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/cornball-ai/cornball-ai.r-universe.dev
 	branch = HEAD
-[submodule "chatterbox"]
-	path = chatterbox
-	url = https://github.com/cornball-ai/chatterbox
-[submodule "compost"]
-	path = compost
-	url = https://github.com/cornball-ai/compost
-[submodule "corteza"]
-	path = corteza
-	url = https://github.com/cornball-ai/corteza
-[submodule "diffuseR"]
-	path = diffuseR
-	url = https://github.com/cornball-ai/diffuser
-[submodule "llm.api"]
-	path = llm.api
-	url = https://github.com/cornball-ai/llm.api
-[submodule "mx.api"]
-	path = mx.api
-	url = https://github.com/cornball-ai/mx.api
-[submodule "mx.client"]
-	path = mx.client
-	url = https://github.com/cornball-ai/mx.client
-[submodule "mx.crypto"]
-	path = mx.crypto
-	url = https://github.com/cornball-ai/mx.crypto
-[submodule "pensar"]
-	path = pensar
-	url = https://github.com/cornball-ai/pensar
-[submodule "rembg"]
-	path = rembg
-	url = https://github.com/cornball-ai/rembg
-[submodule "rformat"]
-	path = rformat
-	url = https://github.com/cornball-ai/rformat
-[submodule "rotio"]
-	path = rotio
-	url = https://github.com/cornball-ai/rotio
-[submodule "saber"]
-	path = saber
-	url = https://github.com/cornball-ai/saber
-[submodule "stt.api"]
-	path = stt.api
-	url = https://github.com/cornball-ai/stt.api
-[submodule "subtitles"]
-	path = subtitles
-	url = https://github.com/cornball-ai/subtitles
+[submodule "grpc"]
+	path = grpc
+	url = https://github.com/cornball-ai/grpc
 [submodule "tinyoauth"]
 	path = tinyoauth
 	url = https://github.com/cornball-ai/tinyoauth
-[submodule "tinypkgr"]
-	path = tinypkgr
-	url = https://github.com/cornball-ai/tinypkgr
-[submodule "tinyrox"]
-	path = tinyrox
-	url = https://github.com/cornball-ai/tinyrox
-[submodule "tinyspotifyr"]
-	path = tinyspotifyr
-	url = https://github.com/cornball-ai/tinyspotifyr
-[submodule "tts.api"]
-	path = tts.api
-	url = https://github.com/cornball-ai/tts.api
-[submodule "whisper"]
-	path = whisper
-	url = https://github.com/cornball-ai/whisper
+	registered = false
