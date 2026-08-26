@@ -5,7 +5,3 @@
 [submodule "grpc"]
 	path = grpc
 	url = https://github.com/cornball-ai/grpc
-[submodule "tinyoauth"]
-	path = tinyoauth
-	url = https://github.com/cornball-ai/tinyoauth
-	registered = false

@@ -1,8 +1,0 @@
-[
-  {
-    "package": "tinyoauth",
-    "url": "https://github.com/cornball-ai/tinyoauth",
-    "via": ["tinyspotifyr"],
-    "from": "tinyspotifyr"
-  }
-]
