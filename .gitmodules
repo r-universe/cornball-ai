@@ -2,6 +2,6 @@
 	path = .registry
 	url = https://github.com/cornball-ai/cornball-ai.r-universe.dev
 	branch = HEAD
-[submodule "grpc"]
-	path = grpc
-	url = https://github.com/cornball-ai/grpc
+[submodule "rgrpc"]
+	path = rgrpc
+	url = https://github.com/cornball-ai/rgrpc
