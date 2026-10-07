@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/cornball-ai/cornball-ai.r-universe.dev
 	branch = HEAD
+[submodule "civetwebR"]
+	path = civetwebR
+	url = https://github.com/cornball-ai/civetwebR
 [submodule "rgrpc"]
 	path = rgrpc
 	url = https://github.com/cornball-ai/rgrpc
